@@ -21,18 +21,9 @@ let alm_dis = 4000; //load_more按钮距离底边距离像素
 let alm_sites = [
     {
     "urls":[
-        /https?:\/\/www.youtube.com\/user\/.+/gi,
-        /https?:\/\/www.youtube.com\/channel\/.+/gi],
+        /https?:\/\/www.youtube.com\/watch\?.+/gi],
     "btns":[{
-    "id":".load-more-text",
-    "distance":0}]
-    }, //youtube_user_page
-    {
-    "urls":[
-        /https?:\/\/www.youtube.com\/watch\?.+/gi,
-        /https?:\/\/www.youtube.com\/watch2\?.+/gi],
-    "btns":[{
-    "id":"[data-uix-load-more-target-id=comment-section-renderer-items]",
+    "id":"paper-button.style-scope.yt-next-continuation",
     "distance":0},
     {
     "id":"#watch-more-related-button",
