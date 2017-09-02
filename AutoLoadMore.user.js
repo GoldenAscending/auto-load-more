@@ -1,11 +1,9 @@
 // ==UserScript==
 // @name auto load more
 // @description auto load more !自动点击加载更多的按钮!
-// @version 1.0.5
+// @version 1.0.4
 // @grant none
 // @include *
-// @author       legalthan.com
-// @homepage https://github.com/GoldenAscending/auto-load-more
 // @namespace  https://greasyfork.org/zh-CN/scripts/29328-auto-load-more
 // @updateURL  https://greasyfork.org/scripts/29328-auto-load-more/code/auto%20load%20more.user.js
 // @copyright  反馈和建议(feedback)E-mail: nolazyload@foxmail.com
